@@ -1,3 +1,4 @@
+//Api get https://praticle-service.s3.ap-south-1.amazonaws.com/sugar_home.json
 import 'package:flutter/material.dart';
 
 class Commen_tax extends StatelessWidget {
